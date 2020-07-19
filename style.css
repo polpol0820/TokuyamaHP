@@ -1,0 +1,143 @@
+@charset "utf-8";
+/*
+PC版は960px
+スマホ版は720px
+*/
+
+/*
+全体的なスタイル
+いじらないで
+*/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #cccccc;
+    font-family: sans-serif;
+    line-height: 1.5;
+}
+
+/*
+ヘッダー
+いじらないで
+*/
+header{
+    background-color: white;
+    width: 960px;
+    margin: 0 auto;
+}
+
+.header-body{
+    text-align: left;
+    padding: 0 40px;
+}
+/*
+ナビゲーション
+いじらないで
+*/
+.nav1{
+    width: 960px;
+    height: 50px;
+    margin: 0px 0px;
+}
+
+.nav1 li{
+    list-style: none;
+    float: left;
+}
+
+.nav1 li a{
+    background-color: navy;
+    color: white;
+    display: block;
+    width: 192px;
+    height: 35px;
+    padding: 15px 0px 0px 0px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.nav1 li a:hover{
+    background-color: #000066;
+}
+
+.nav2 li{
+    list-style: none;
+}
+.nav2 li a{
+    color: white;
+}
+/*
+メイン
+基本設定だからいじらないで
+*/
+main{
+    width: 960px;
+    background-color: white;
+    margin: 0 auto;
+    padding:  20px 0;
+}
+
+/*
+トップページメインの中身
+ここはいじっていいよ
+*/
+.top-main{
+    text-align: left;
+    background-color: white;
+    padding: 0 40px;
+}
+.top-main img{
+    width: 100%;
+}
+
+
+/*
+フッター
+いじらないで
+*/
+footer{
+    background-color:#000066;
+    width: 960px;
+    margin: 0 auto;
+    
+}
+
+.footer-body{
+    text-align: center;
+    font-size: x-small;
+    color: white;
+}
+.link{
+    width: 190px;
+    padding: 12px 40px;
+    text-align: left;
+}
+
+.link p{
+    margin: 0;
+	padding: 7px 3px 0;
+	text-indent: 0;
+	color: white;
+	font-size: 15px;
+}
+
+/*
+メンバーの中身
+いじっていいよ
+*/
+.member-main{
+    text-align: left;
+    background-color: white;
+    padding: 0 40px;
+}
+.professor-list{
+    font-size: 20px;
+    padding: 20px 80px;
+}
+.member-list{
+    font-size: 20px;
+    padding: 20px 80px;
+}
