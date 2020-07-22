@@ -4,3 +4,6 @@ index.htmlはトップページ
 member.htmlはメンバー
 style.cssは基本設計
 imageは画像集
+
+
+pull req test test test desu
