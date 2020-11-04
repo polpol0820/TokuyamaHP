@@ -17,6 +17,7 @@ body{
     background-color: #cccccc;
     font-family: sans-serif;
     line-height: 1.5;
+    overflow: scroll;
 }
 
 /*
@@ -93,19 +94,23 @@ main{
 トップページメインの中身
 ここはいじっていいよ
 */
+
 .top-main{
     text-align: left;
     background-color: white;
     padding: 0 40px;
 }
+
 .top-main img{
     width: 100%;
 }
+/*
+/*
 .top-main-sentence{
     font-size: 20px;
     padding: 12px 40px;
 }
-
+*/
 /*
 フッター
 いじらないで
@@ -140,6 +145,7 @@ footer{
 メンバーの中身
 いじっていいよ
 */
+
 .member-main{
     text-align: left;
     background-color: white;
