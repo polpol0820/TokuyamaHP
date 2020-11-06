@@ -160,3 +160,25 @@ footer{
     padding: 20px 80px;
 }
 
+/*
+researchのcssまわり
+*/
+.research-main{
+    text-align: left;
+    background-color: white;
+    padding:0 40px;
+}
+
+/*
+classまわりのcss
+変えていいよ
+*/
+.class-main{
+    text-align: left;
+    background-color: white;
+    padding:0 40px;
+}
+.software-nav{
+    padding: 10px 80px;
+    font-size: 20px;
+}
