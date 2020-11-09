@@ -182,3 +182,12 @@ classまわりのcss
     padding: 10px 80px;
     font-size: 20px;
 }
+
+/*
+accessまわりのcss
+*/
+.access-main{
+    text-align:left;
+    background-color: white;
+    padding: 0 40px;
+}
