@@ -168,7 +168,9 @@ researchのcssまわり
     background-color: white;
     padding:0 40px;
 }
-
+.research-main img{
+    width: 100%;
+}
 /*
 classまわりのcss
 変えていいよ
