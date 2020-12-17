@@ -164,12 +164,17 @@ footer{
 researchのcssまわり
 */
 .research-main{
-    text-align: left;
     background-color: white;
     padding:0 40px;
+    text-align:left;
 }
-.research-main img{
-    width: 100%;
+.research-main-image{
+    background-color: white;
+    padding:0 40px;
+    text-align:center
+}
+.research-main-image img{
+    width: 80%;
 }
 /*
 classまわりのcss
