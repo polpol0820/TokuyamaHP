@@ -204,3 +204,103 @@ accessまわりのcss
     background-color: white;
     padding: 0 40px;
 }
+
+
+/*
+profileまわりのcss
+変更はしないでほしい
+追加はOK
+*/
+.profile {
+    background: #FFF;
+    width: auto;
+    padding: 0 40px;
+
+  }
+  
+  .profile-img {
+    display: block;
+    width: 250px;
+    height: 250px;
+    border-radius:500%;
+    margin: 0 auto;
+  }
+  
+  .profile-name {
+    text-align:center;
+    font-weight:bold;
+    font-size:1.2rem;
+    margin: 1rem auto 1rem;
+    letter-spacing:.1rem;
+  }
+  .profile-birth {
+    text-align:center;
+    font-weight:bold;
+    font-size:1.2rem;
+    margin: 1rem auto 1rem;
+    letter-spacing:.1rem;
+  }
+  .profile-join {
+    text-align:center;
+    font-weight:bold;
+    font-size:1.2rem;
+    margin: 1rem auto 1rem;
+    letter-spacing:.1rem;
+  }
+  .profile-like {
+    text-align:center;
+    font-weight:bold;
+    font-size:1.2rem;
+    margin: 1rem auto 1rem;
+    letter-spacing:.1rem;
+  }
+  .profile-like-body {
+    text-align:center;
+    font-size:1.2rem;
+    margin: 1rem auto 1rem;
+  }
+  .profile-detail {
+    text-align:center;
+    font-weight:bold;
+    font-size:1.2rem;
+    margin: 1rem auto 1rem;
+    letter-spacing:.1rem;
+  }
+  .profile-detail-body {
+    text-align:center;
+    font-size:1.2rem;
+    margin: 1rem auto 1rem;
+  }
+
+  .profile-research {
+    text-align:center;
+    font-weight:bold;
+    font-size:1.2rem;
+    margin: 1rem auto 1rem;
+    letter-spacing:.1rem;
+  }
+  .profile-research-body {
+    text-align:center;
+    font-size:1.2rem;
+    margin: 1rem auto 1rem;
+  }
+  .profile-address {
+    text-align:center;
+    font-weight:bold;
+    font-size:1.2rem;
+    margin: 1rem auto 1rem;
+    letter-spacing:.1rem;
+  }
+
+  .profile-SNS {
+    text-align:center;
+    font-weight:bold;
+    font-size:1.2rem;
+    margin: 1rem auto 1rem;
+    letter-spacing:.1rem;
+  }
+  .profile-SNS-body {
+    text-align:center;
+    font-size:1.2rem;
+    margin: 1rem auto 1rem;
+  }
